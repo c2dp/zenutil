@@ -2,6 +2,15 @@ module github.com/c2dp/zenutil
 
 go 1.19
 
+retract (
+  v0.0.1
+  v0.0.2
+  v0.0.3
+  v0.0.4
+  v0.0.5
+  v0.0.6
+)
+
 require (
 	github.com/PuerkitoBio/goquery v1.8.0
 	github.com/Shopify/sarama v1.38.0
