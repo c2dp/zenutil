@@ -1,4 +1,4 @@
-module gobench
+module github.com/c2dp/zenutil
 
 go 1.19
 
